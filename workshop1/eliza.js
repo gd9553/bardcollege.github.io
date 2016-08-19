@@ -83,6 +83,9 @@ var rules = {
     "Have you ever fantasized ~y while you were awake",
     "Have you dreamt of ~y before?",
   ],
+      "Angelicaaa": [
+    "Eliiizaaa",
+  ],
   "~*x I dream about ~*y": [
     "How do you feel about ~y in reality?",
   ],
