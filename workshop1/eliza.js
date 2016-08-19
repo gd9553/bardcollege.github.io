@@ -229,6 +229,8 @@ var rules = {
 
 var default_responses = [
   "Very interesting",
+  "I don't care",
+  "Eliiizaaa!",
   "I am not sure I understand you fully",
   "What does that suggest to you?",
   "Please continue",
